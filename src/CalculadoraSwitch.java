@@ -13,10 +13,6 @@ public class CalculadoraSwitch {
         System.out.print("Digite o segundo número: ");
         double num2 = sc.nextDouble();
 
-        // --------------------------------------------------
-        // TODO: Escreva o seu switch case aqui embaixo
-        // --------------------------------------------------
-
           switch (operacao) {
                case '+'-> System.out.println (num1 + num2);
                case '-'-> System.out.println (num1 - num2);
