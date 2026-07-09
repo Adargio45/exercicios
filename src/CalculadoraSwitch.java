@@ -25,7 +25,6 @@ public class CalculadoraSwitch {
                 }
           }
 
-        // --------------------------------------------------
 
         sc.close();
     }
