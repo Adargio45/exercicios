@@ -7,6 +7,7 @@ public class Tabuada {
         número = guarda o número digitado;
         resultado = guarda o cálculo;
         contador = controla o while */
+        
         int numero, resultado, contador;
         System.out.println(" Digite um valor: ");
         numero = teclado.nextInt();
