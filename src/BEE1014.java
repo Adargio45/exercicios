@@ -7,9 +7,7 @@ public class BEE1014 {
          x=sc.nextInt();
          y=sc.nextDouble();
         double valor = x / y;
-        System.out.printf("%.3f km/l \n", + valor);
-
-
+        System.out.printf("%.3f km/l\n",valor);
 
         sc.close();
     }
