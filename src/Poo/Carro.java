@@ -9,7 +9,7 @@ public class Carro {
     int km;
     double preco;
 
-    // criar um "botão" para que possa executar algo ( mostrar os dados)
+    // criar um "botão" para que eu possa executar algo ( mostrar os dados)
      void exibirAnuncio(){
          System.out.println("Anuncio do carro" );
          System.out.println(marca+"-"+modelo+"("+ano+")");
